@@ -1,8 +1,12 @@
 h1{
     color: aliceblue;
+    font-size: 35px;
 }
 
 p{
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-size: 40px;
 }
